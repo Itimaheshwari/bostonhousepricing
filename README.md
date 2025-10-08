@@ -68,4 +68,10 @@ bostonhousepricing/
 │   └── home.html
 └── venv/
 ```
+## Conclusion
+This project demonstrates how to build, train, and deploy a Machine Learning model using Flask and Render.
+
+
+
+
 
