@@ -54,6 +54,7 @@ python app.py
 ## File Structure
 
 bostonhousepricing/
+│
 ├── app.py
 ├── Procfile
 ├── requirements.txt
@@ -61,6 +62,6 @@ bostonhousepricing/
 ├── regmodel.pkl
 ├── README.md
 ├── templates/
-│   └── home.html
+│ └── home.html
 └── venv/
 
