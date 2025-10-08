@@ -1,6 +1,6 @@
 # Boston House Pricing Prediction
 
-# A web application to predict Boston house prices using a Linear Regression model deployed with Flask on Render.
+ A web application to predict Boston house prices using a Linear Regression model deployed with Flask on Render.
 
 ## Features
 
@@ -53,6 +53,7 @@ python app.py
 ## File Structure
 
 bostonhousepricing/
+
 │
 ├── app.py
 ├── Procfile
