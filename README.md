@@ -53,6 +53,9 @@ python app.py
 
 ## File Structure
 
+## File Structure
+
+```
 bostonhousepricing/
 │
 ├── app.py
@@ -62,6 +65,7 @@ bostonhousepricing/
 ├── regmodel.pkl
 ├── README.md
 ├── templates/
-│ └── home.html
+│   └── home.html
 └── venv/
+```
 
