@@ -24,6 +24,7 @@ To run the project locally:
 2. Navigate into the project directory:
    ```bash
    cd bostonhousepricing
+    ```
 
 3. Activate your existing virtual environment:
 
@@ -53,8 +54,6 @@ python app.py
 ## File Structure
 
 bostonhousepricing/
-
-│
 ├── app.py
 ├── Procfile
 ├── requirements.txt
